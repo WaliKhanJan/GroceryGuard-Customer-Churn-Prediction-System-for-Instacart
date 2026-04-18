@@ -1,1 +1,0 @@
-# -GroceryGuard-Customer-Churn-Prediction-System-for-Instacart
